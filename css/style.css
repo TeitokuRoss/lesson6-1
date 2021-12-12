@@ -1,8 +1,8 @@
 .outer-block {
-	margin: 0 auto;
+	/* margin: 0 auto;
 	width: 900px;
 	height: 300px;
-	border: 5px solid red;
+	border: 5px solid red; */
 }
 
 .inner-block {
