@@ -1,0 +1,36 @@
+body {
+	color: brown;
+	font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+	/* color: brown; */
+}
+p {
+	/* color: brown; */
+}
+a {
+	color: inherit;
+}
+span {
+	color: initial;
+}
+.arcticle2 > p {
+	padding: 20px;
+}
+.arcticle1 > span {
+	color: green;
+}
+.arcticle2 > span {
+	color: green;
+}
+.arcticle2 p {
+	border: 2px solid red;
+}
+
+h1 + p {
+	font-style: italic;
+}
+p {
+	font-style: normal;
+}
